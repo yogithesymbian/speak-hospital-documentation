@@ -2,6 +2,8 @@
 
 Alur instalasi, panel administrasi, tenant, dan pembaruan sistem.
 
+Untuk memperbarui image OVA/OVF versi lama, lihat [Upgrade Speak-Hospital dari OVA/OVF Versi Lama](upgrade-legacy-ova-ovf.md).
+
 ---
 
 ## Daftar Isi
